@@ -1,0 +1,15 @@
+.card-eg{
+    height:300px;
+    width: 400px;
+    background-color: salmon;
+    border-radius: 50px;
+    align-items: center;
+    padding: 10px;
+}
+.img-eg{
+    justify-content: center;
+    display: flex;
+    margin: 40px;
+    border-radius: 20px;
+  
+}
